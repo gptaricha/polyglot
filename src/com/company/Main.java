@@ -24,6 +24,7 @@ public class Main {
         System.out.println("Please choose a language :\n");
         System.out.println("1 - English");
         System.out.println("2 - French");
+        System.out.println("3 - Afrikaans");
         System.out.println("\n -------------------------");
 
         System.out.print("->");
