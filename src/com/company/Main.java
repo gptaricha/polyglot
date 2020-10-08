@@ -25,6 +25,7 @@ public class Main {
         System.out.println("1 - English");
         System.out.println("2 - French");
         System.out.println("3 - Afrikaans");
+        System.out.println("4 - Hindi");
         System.out.println("\n -------------------------");
 
         System.out.print("->");
@@ -42,6 +43,9 @@ public class Main {
                 break;
             case 2 :
                 pathName = "assets/french.txt";
+                break;
+            case 4 :
+                pathName = "assets/hindi.txt";
                 break;
             default:
                 break;
